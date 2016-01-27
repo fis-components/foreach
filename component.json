@@ -1,0 +1,10 @@
+{
+    "name": "foreach",
+    "description": "foreach component + npm package",
+    "repos": "https://github.com/manuelstofer/foreach",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "2.0.5"
+}
